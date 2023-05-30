@@ -4,6 +4,6 @@
   <a href="mailto:ihmmaru99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ihmmaru99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihmmaru99&show_icons=true&theme=default)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihmmaru99&show_icons=true&theme=default)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ihmmaru99)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihmmaru99&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihmmaru99&layout=compact&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=ihmmaru99)
