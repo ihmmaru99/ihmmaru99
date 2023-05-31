@@ -11,7 +11,7 @@ Since life is like a floating cloud, let's not hesitate.
 
 <b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
 <b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b><br>
-<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/081bfcf2-c7a5-4cf5-94d5-f14bd7dcf558" width="10px" height="10px">
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/081bfcf2-c7a5-4cf5-94d5-f14bd7dcf558" width="20px" height="15px">
 <b>42 Seoul (2022.08 ~ 2022.09)</b><br>
 <b>Programmers Dev Course Autonomous Driving Perception (2023.03 ~)</b><br>
 
