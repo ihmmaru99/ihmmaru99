@@ -53,7 +53,7 @@ Since life is like a floating cloud, let's not hesitate.
 <p align="center">
   <b>Algorithm</b><br>
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99" />
-  <img height="180em" src="http://mazandi.herokuapp.com/api?handle=ihmmaru99&theme=Dark" />
+  <img height="180em" src="http://mazandi.herokuapp.com/api?handle=ihmmaru99&theme=Cold" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0080FF)
