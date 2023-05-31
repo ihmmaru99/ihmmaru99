@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0080FF&text=%20IhmJB's%20GitHub%20%20&height=150&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0080FF&text=%20IhmJB's%20GitHub%20%20&height=150&fontSize=90&fontColor=ffffff)
 
 # Introduce
 
@@ -41,4 +41,4 @@
   <img height="180em" src="http://mazandi.herokuapp.com/api?handle=ihmmaru99&theme=Warm" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=rect&color=0080FF)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=wave&color=0080FF)
