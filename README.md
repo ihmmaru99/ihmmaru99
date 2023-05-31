@@ -31,6 +31,7 @@ Since life is like a floating cloud, let's not hesitate.
 </p>
 
 # Skills
+<a target="_blank"><img src="https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=anaconda&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
