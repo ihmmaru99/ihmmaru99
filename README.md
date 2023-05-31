@@ -32,3 +32,5 @@
 <p align="center">
   <img height="200em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99" />
 </p>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00BFFF)
