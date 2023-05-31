@@ -12,7 +12,7 @@ Since life is like a floating cloud, let's not hesitate.
 <b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
 <b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b><br>
 <b>42 Seoul (2022.08 ~ 2022.09)</b><br>
-![119467615 1 edit](https://github.com/ihmmaru99/ihmmaru99/assets/109266664/1f39336f-cf25-46ca-b29f-d7d7e129eeec){: width="20px", height="20px"}
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.donga.com%2Fnews%2FEconomy%2Farticle%2Fall%2F20230525%2F119467641%2F1&psig=AOvVaw1DNmRCVgwOIs6ls-MB8MKB&ust=1685604551431000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjujLaEn_8CFQAAAAAdAAAAABAE">
 <b>Programmers Dev Course Autonomous Driving Perception (2023.03 ~)</b><br>
 
 # SNS
