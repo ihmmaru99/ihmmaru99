@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-ddyc.vercel.app/api?username=DevJaewoo&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-ddyc.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
+<img height="180em" src="github-readme-stats-ddyc.vercel.ap/api?username=DevJaewoo&show_icons=true" />
+<img height="180em" src="github-readme-stats-ddyc.vercel.ap/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
 </p>
