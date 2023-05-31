@@ -31,15 +31,16 @@ Since life is like a floating cloud, let's not hesitate.
 </p>
 
 # Skills
-
+<b>Programming</b>
 <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a><br>
+<b>Framework</b>
 <a target="_blank"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 
 # Stats
