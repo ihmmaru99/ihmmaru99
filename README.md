@@ -9,5 +9,6 @@
 <img height="180em" src="https://github-readme-stats-ndrd.vercel.app/api/top-langs/?username=ihmmaru99&layout=compact&hide=jupyter%20notebook" />
 </p>
 <p align="center">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99" />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99)](https://solved.ac/ihmmaru99/)
 </p>
