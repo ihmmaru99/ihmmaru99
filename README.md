@@ -14,6 +14,7 @@ Since life is like a floating cloud, let's not hesitate.
 <b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b><br>
 <img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/081bfcf2-c7a5-4cf5-94d5-f14bd7dcf558" width="30px" height="15px">
 <b>42 Seoul (2022.08 ~ 2022.09)</b><br>
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/8f16482b-dc76-4715-a882-5727d9e98157" width="15px" height="15px">
 <b>Programmers Dev Course Autonomous Driving Perception (2023.03 ~)</b><br>
 
 # SNS
