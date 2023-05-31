@@ -4,6 +4,8 @@
 1999.09.07
 
 ## 📚 STACKS
+<a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+---
 
 <p>
   <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
