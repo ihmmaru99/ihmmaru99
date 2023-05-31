@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img height="200em" src="https://github-readme-stats-ndrd.vercel.app/api?username=ihmmaru99&show_icons=true" />
+<img height="200em", width="400em" src="https://github-readme-stats-ndrd.vercel.app/api?username=ihmmaru99&show_icons=true" />
 <img height="200em", width="400em" src="https://github-readme-stats-ndrd.vercel.app/api/top-langs/?username=ihmmaru99&layout=compact&hide=jupyter%20notebook" />
 </p>
 <p align="left">
