@@ -38,7 +38,7 @@ Since life is like a floating cloud, let's not hesitate.
 <a target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a><br>
+<a target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 
 # Stats
