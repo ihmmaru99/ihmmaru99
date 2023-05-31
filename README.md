@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=0080FF&text=%20IhmJB's%20GitHub%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=0080FF&text=%20IhmJB's%20GitHub%20%20&height=150&fontSize=90&fontColor=ffffff)
 
 # Ihm Jeong-Bin
 
