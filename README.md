@@ -12,7 +12,7 @@ Since life is like a floating cloud, let's not hesitate.
 <b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
 <b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b><br>
 <b>42 Seoul (2022.08 ~ 2022.09)</b><br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.donga.com%2Fnews%2FEconomy%2Farticle%2Fall%2F20230525%2F119467641%2F1&psig=AOvVaw1DNmRCVgwOIs6ls-MB8MKB&ust=1685604551431000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjujLaEn_8CFQAAAAAdAAAAABAE">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.donga.com%2Fnews%2FEconomy%2Farticle%2Fall%2F20230525%2F119467641%2F1&psig=AOvVaw1DNmRCVgwOIs6ls-MB8MKB&ust=1685604551431000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjujLaEn_8CFQAAAAAdAAAAABAE](https://dimg.donga.com/wps/NEWS/IMAGE/2023/05/25/119467615.1.jpg)">
 <b>Programmers Dev Course Autonomous Driving Perception (2023.03 ~)</b><br>
 
 # SNS
