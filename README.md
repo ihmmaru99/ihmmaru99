@@ -4,7 +4,7 @@
   <a href="mailto:ihmmaru99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ihmmaru99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-seven-rouge-33.vercel.app)
- 
-# 변경 README
-![Anurag's GitHub stats](https://도메인 주소/...)
+<p align="center">
+<img height="180em" src="https://github-readme-stats-ddyc.vercel.app/api?username=DevJaewoo&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-ddyc.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
+</p>
