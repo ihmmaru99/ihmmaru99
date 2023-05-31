@@ -2,6 +2,11 @@
 
 # Introduce
 
+Hello, my name is Ihm Jeong-Bin.
+I aspire to be a self-driving software engineer.
+<b>Motto</b>
+Since life is like a floating cloud, let's not hesitate.
+
 # Profile
 
 <b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
