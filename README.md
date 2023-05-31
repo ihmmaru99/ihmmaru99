@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0080FF&text=%20IhmJB's%20GitHub%20%20&height=150&fontSize=90&fontColor=ffffff)
 
-# Ihm Jeong-Bin
+# Introduce
 
-## Profile
+# Profile
 1999.09.07
 
-## Contact
+# Contact
 
 <p>
   <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
@@ -13,7 +13,7 @@
   <a href="mailto:ihmmaru99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ihmmaru99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## 📚 STACKS
+# 📚 STACKS
 
 <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
