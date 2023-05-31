@@ -30,7 +30,8 @@
 ---
 
 <p align="center">
-  <img height="200em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99" />
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99" />
+  <img height="180em" src="http://mazandi.herokuapp.com/api?handle=ihmmaru99&theme=warm" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=rect&color=0080FF)
