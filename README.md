@@ -4,7 +4,7 @@
 
 Hello, my name is Ihm Jeong-Bin.<br>
 I aspire to be a self-driving software engineer.<br>
-<b><p style="font-size:2em">Motto</p></b>
+<b><p style="font-size:3em">Motto</p></b>
 Since life is like a floating cloud, let's not hesitate.
 
 # Profile
