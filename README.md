@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0080FF&text=%20IhmJB's%20GitHub%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=0080FF&text=%20IhmJB's%20GitHub%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 # Ihm Jeong-Bin
 
@@ -33,4 +33,4 @@
   <img height="200em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0080FF)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Rect&color=0080FF)
