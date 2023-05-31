@@ -2,9 +2,9 @@
 
 # Introduce
 
-Hello, my name is Ihm Jeong-Bin.
-I aspire to be a self-driving software engineer.
-<b>Motto</b>
+Hello, my name is Ihm Jeong-Bin.<br>
+I aspire to be a self-driving software engineer.<br>
+<b><p style="font-size:2em">Motto</p></b><br>
 Since life is like a floating cloud, let's not hesitate.
 
 # Profile
