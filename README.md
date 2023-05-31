@@ -3,7 +3,9 @@
 # Introduce
 
 # Profile
-1999.09.07
+
+<b>Sejoing Science High School (2015.03 ~ 2018.02)</b>
+<b>Department of Automotive Engineering at Hanyang University B.S.(2018.03 ~ ) </ㅠ>
 
 # Contact
 
