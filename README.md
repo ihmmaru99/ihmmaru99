@@ -6,5 +6,5 @@
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-ndrd.vercel.app/api?username=ihmmaru99&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-ndrd.vercel.app/api/top-langs/?username=ihmmaru99&layout=pie&hide=jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats-ndrd.vercel.app/api/top-langs/?username=ihmmaru99&layout=compact&hide=jupyter%20notebook" />
 </p>
