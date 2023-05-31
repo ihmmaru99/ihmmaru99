@@ -13,7 +13,7 @@
   <a href="mailto:ihmmaru99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ihmmaru99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-# 📚 STACKS
+# Stacks
 
 <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
