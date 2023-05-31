@@ -8,13 +8,13 @@ I aspire to be a self-driving software engineer.<br>
 Since life is like a floating cloud, let's not hesitate.
 
 # Career
-<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/d284c760-df41-4b58-ac5a-d30c908dbf0b" width="13px" height="13px">
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/d284c760-df41-4b58-ac5a-d30c908dbf0b" width="15px" height="15px">
 <b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
-<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/7963b194-4583-4323-a431-70da592d682f" width="13px" height="13px">
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/7963b194-4583-4323-a431-70da592d682f" width="15px" height="15px">
 <b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b><br>
-<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/081bfcf2-c7a5-4cf5-94d5-f14bd7dcf558" width="40px" height="13px">
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/081bfcf2-c7a5-4cf5-94d5-f14bd7dcf558" width="35px" height="15px">
 <b>42 Seoul (2022.08 ~ 2022.09)</b><br>
-<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/8f16482b-dc76-4715-a882-5727d9e98157" width="13px" height="13px">
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/8f16482b-dc76-4715-a882-5727d9e98157" width="15px" height="15px">
 <b>Programmers Dev Course Autonomous Driving Perception (2023.03 ~)</b><br>
 
 # SNS
