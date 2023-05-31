@@ -8,7 +8,7 @@ I aspire to be a self-driving software engineer.<br>
 Since life is like a floating cloud, let's not hesitate.
 
 # Career
-
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/d284c760-df41-4b58-ac5a-d30c908dbf0b" width="15px" height="15px">
 <b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
 <img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/7963b194-4583-4323-a431-70da592d682f" width="15px" height="15px">
 <b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b><br>
