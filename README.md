@@ -7,9 +7,9 @@
 
 <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
+<a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
 <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a>
-<a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 ---
 
 <p>
