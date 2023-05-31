@@ -30,7 +30,7 @@ Since life is like a floating cloud, let's not hesitate.
   <a href="https://www.linkedin.com/in/%EC%A0%95%EB%B9%88-%EC%9E%84-a3a588278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
-# Stacks
+# Skills
 
 <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
