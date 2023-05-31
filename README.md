@@ -4,7 +4,7 @@
 
 # Profile
 
-<b>Sejoing Science High School (2015.03 ~ 2018.02)</b><br>
+<b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
 <b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b>
 
 # Contact
