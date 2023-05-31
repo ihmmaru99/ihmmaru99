@@ -1,6 +1,7 @@
 # Ihm Jeong-Bin
 
 ## Profile
+1999.09.07
 
 <p>
   <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
