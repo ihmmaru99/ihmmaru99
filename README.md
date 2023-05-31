@@ -23,11 +23,13 @@
 ---
 
 <p align="center">
+  GitHub<br>
   <img height="180em" src="https://github-readme-stats-ndrd.vercel.app/api?username=ihmmaru99&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-ndrd.vercel.app/api/top-langs/?username=ihmmaru99&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
+  Algorithm<br>
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ihmmaru99" />
   <img height="180em" src="http://mazandi.herokuapp.com/api?handle=ihmmaru99&theme=Warm" />
 </p>
