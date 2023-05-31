@@ -10,7 +10,9 @@ Since life is like a floating cloud, let's not hesitate.
 # Career
 
 <b>Sejong Science High School (2015.03 ~ 2018.02)</b><br>
-<b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b>
+<b>B.S. in Automotive Engineering at Hanyang University (2018.03 ~ ) </b><br>
+<b>42 Seoul (2022.08 ~ 2022.09)</b><br>
+<b>Programmers Dev Course Autonomous Driving Perception (2023.03 ~)</b><br>
 
 # SNS
   <a href="https://ihmmaru99.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
