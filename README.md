@@ -2,7 +2,7 @@
 
 # Introduce
 
-Hello, my name is Ihm Jeong-Bin.<br>
+Hello, my name is IHM Jeongbin.<br>
 I aspire to be a autonomous driving software engineer.<br>
 <b><h3>Motto</h3></b>
 Since life is like a floating cloud, let's not hesitate.
