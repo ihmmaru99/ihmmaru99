@@ -44,7 +44,7 @@ Since life is like a floating cloud, let's not hesitate.
 <a target="_blank"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 [![Solved.ac
-ihmmaru99](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+ihmmaru99](http://mazassumnida.wtf/api/mini/generate_badge?boj=ihmmaru99)](https://solved.ac/ihmmaru99)
 
 # Stats
 
