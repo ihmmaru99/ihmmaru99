@@ -17,7 +17,9 @@ Since life is like a floating cloud, let's not hesitate.
 <img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/fdccd428-3fe6-4370-9d95-d35e83f88be1" width="15px" height="15px">
 <b>CONTROLWORKS Future Technology Office Intern (2022.12 ~ 2023.02)</b><br>
 <img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/8f16482b-dc76-4715-a882-5727d9e98157" width="15px" height="15px">
-<b>Programmers Autonomous Driving Perception Dev Course (2023.03 ~ )</b><br>
+<b>Programmers Autonomous Driving Perception Dev Course (2023.03 ~ 2023.08)</b><br>
+<img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/2d5c0d85-62e6-4cd0-9f4f-2f7933ce55a5" width="15px" height="15px">
+<b>HL Klemove (2024.01 ~ )</b><br>
 
 # SNS
 <p>
