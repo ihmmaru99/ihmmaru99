@@ -29,7 +29,7 @@ Since life is like a floating cloud, let's not hesitate.
 
 <p>
   <a href="mailto:ihmmaru99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ihmmaru99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/%EC%A0%95%EB%B9%88-%EC%9E%84-a3a588278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeong-bin-ihm-a3a588278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 # Skills
