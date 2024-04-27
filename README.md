@@ -2,10 +2,8 @@
 
 # Introduce
 
-Hello, my name is IHM Jeongbin.<br>
-I aspire to be a autonomous driving software engineer.<br>
-<b><h3>Motto</h3></b>
-Since life is like a floating cloud, let's not hesitate.
+Hello, my name is Jeongbin IHM.<br>
+I work as an autonomous driving software engineer.<br>
 
 # Career
 <img src="https://github.com/ihmmaru99/ihmmaru99/assets/109266664/d284c760-df41-4b58-ac5a-d30c908dbf0b" width="15px" height="15px">
